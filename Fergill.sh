@@ -15,7 +15,7 @@ echo "(but to be honest people only ever need me if they are idiots)"
 sleep 1s
 echo "I am 20 years old"
 sleep 1s
-echo "And the purpose of my exstence is to give you advice"
+echo "And the purpose of my existence is to give you advice"
 sleep 1s
 echo "Here's my first tip:"
 sleep 1s
