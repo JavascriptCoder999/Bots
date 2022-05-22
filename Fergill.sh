@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Fergill_bot11 entered the chat"
+sleep 0.5s
 echo "Hi"
 sleep 1s
 echo "It is none other than..."
