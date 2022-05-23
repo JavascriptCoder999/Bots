@@ -177,7 +177,7 @@ echo "End credits: Jeffrey was coded by JavascriptCoder999 and please contact hi
  use this also Jeffrey's full name is Jeffrey Jeff Rey Rhea Rye Bean Soy Chandelier and Jeffrey comes
 
  from the family of bots who go by the name Polin, which you can find at his Polin Github repository."
-clear
 fim -a Jeffrey.png
+clear
 exit
 #roast battle with jeffrey - iconic
