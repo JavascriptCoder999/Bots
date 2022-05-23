@@ -68,7 +68,7 @@ echo ""
 echo "Yo mama so short, she plays football with atoms."
 sleep 3s
 echo ""
-echo "Yo mama so tall, she can't play Minecraft because she's hgher than the build limit."
+echo "Yo mama so tall, she can't play Minecraft because she's higher than the build limit."
 sleep 5.5s
 echo ""
 echo "Yo mama so hairy, when she walked into the Star Wars movie, people thought she was Chewbacca."
@@ -90,7 +90,7 @@ tput reset
 echo "Yo mama so fat, when she stepped on the scales, it read my phone number!!!"
 sleep 3.5s
 echo ""
-echo "Yo mama so fat, when she stepped on the scales, Buzz Lightyear poped out and said to infinity and
+echo "Yo mama so fat, when she stepped on the scales, Buzz Lightyear popped out and said to infinity and
 
  beyond!!!"
 sleep 7s
